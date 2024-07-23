@@ -70,10 +70,11 @@ luuqada lagu dhisay waa java program. waxaana isticmaalnay Spring framework.
 
 ## Authors
 
-- **Abdinasir** Ali
+
 - **Abdirahman** Hussein
 - **Ahmed** Abdi
 - **Mudasir** Mohamed
+- **Abdinasir** Ali
 - **Ayub** Ali
 - **Zakaria** Ali
 - **Abdirahman** Mohamed
